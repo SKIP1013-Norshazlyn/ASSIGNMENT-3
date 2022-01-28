@@ -1,0 +1,118 @@
+********** Welcome To UUM LTE Communication Enterprise **********
+
+Please enter your name :
+Zuhairi Yusri
+Hello Zuhairi Yusri, our dear customer !
+Please enter the number of section you will use which is 1-3. 
+3
+Please enter the code section : 
+For code '1' - Services Section 
+For code '2' - Goods Section 
+For code '3' - Laptop Section 
+1
+
+##### Services Section #####
+Please enter the amount of services charge rate per hour as below : 
+Repairing = 50 
+Hardware Installation = 40 
+Antivirus Installation = 80 
+Data Recovery = 50 
+Maintainance = 30
+50
+Please enter required hour to finish it : 
+1
+You want it ASAP or not?
+If ASAP, enter '1.5' while if not ASAP, enter '1'
+1
+If you need the laptop be delivered to you, please enter '10'
+But If you want to come to pick it, please enter '0'
+0
+Your services amount will be RM50.0
+
+Please enter the code section : 
+For code '1' - Services Section 
+For code '2' - Goods Section 
+For code '3' - Laptop Section 
+2
+
+##### Goods Section #####
+Please enter the number of different goods type : 
+3
+Please enter the price of the goods 1 : 
+12
+Please enter the quantity of the goods : 
+3
+The price of the goods after multiply with its quantity : RM36.0
+You want it ASAP/Available/Preorder ?
+If ASAP, enter '1.2' while if Available, enter '1' and if Preorder, enter '1.1'
+1
+If you need it to be delivered to you, please enter '5'
+But If you want to come to pick it, please enter '0'
+0
+So the total price for goods 1 is RM36.00
+
+Please enter the price of the goods 2 : 
+25
+Please enter the quantity of the goods : 
+4
+The price of the goods after multiply with its quantity : RM100.0
+You want it ASAP/Available/Preorder ?
+If ASAP, enter '1.2' while if Available, enter '1' and if Preorder, enter '1.1'
+1
+If you need it to be delivered to you, please enter '5'
+But If you want to come to pick it, please enter '0'
+0
+So the total price for goods 2 is RM100.00
+
+Please enter the price of the goods 3 : 
+50
+Please enter the quantity of the goods : 
+4
+The price of the goods after multiply with its quantity : RM200.0
+You want it ASAP/Available/Preorder ?
+If ASAP, enter '1.2' while if Available, enter '1' and if Preorder, enter '1.1'
+1
+If you need it to be delivered to you, please enter '5'
+But If you want to come to pick it, please enter '0'
+0
+So the total price for goods 3 is RM200.00
+
+Your goods amount will be RM336.00
+The highest goods price is RM200.0 that is goods 3
+
+
+Please enter the code section : 
+For code '1' - Services Section 
+For code '2' - Goods Section 
+For code '3' - Laptop Section 
+3
+
+##### Laptop Section #####
+Please enter the number of laptop : 
+2
+Please enter the price of the laptop : 
+2599
+You want it ASAP/Available/Preorder ?
+If ASAP, enter '1.2' while if Available, enter '1' and if Preorder, enter '1.1'
+1
+If you need it to be delivered to you, please enter '10'
+But If you want to come to pick it, please enter '0'
+0
+Your laptop amount for laptop 1 will be RM2599.00
+
+Please enter the price of the laptop : 
+3299
+You want it ASAP/Available/Preorder ?
+If ASAP, enter '1.2' while if Available, enter '1' and if Preorder, enter '1.1'
+1.1
+If you need it to be delivered to you, please enter '10'
+But If you want to come to pick it, please enter '0'
+10
+Your laptop amount for laptop 2 will be RM3638.90
+
+Your laptop amount for whole laptop is 6237.9
+
+
+Your total amount will be RM6623.90
+
+***** Thank you for choosing UUM LTE Communication Enterprise. *****
