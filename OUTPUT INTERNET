@@ -1,0 +1,118 @@
+******************WELCOME TO INTERNET MULTI APP******************
+Do you want go to next page?
+if yes enter zero (0)
+if no enter one (1)
+0
+ 
+ 
+1. CALCULATE DATA USAGE 
+2. CALCULATE INTERNET SPEED 
+3. CHECK INTERNET COVERAGE FOR EACH STATE 
+4. PURCHASING INTERNET 
+ 
+ENTER NUMBER TO PROCEED TO NEXT PAGE:
+1
+ 
+ 
+****************** SYSTEM TO CALCULATE DATA ******************
+ 
+Enter value for each activities
+ 
+1-One web page visit = 1MB : 2
+2-One song (uploaded or downloaded) = 5.7MB : 35
+3-One minute of streaming audio = 0.7MB : 2
+4-One email (text only) = 0.035MB :1
+5-One email with attachment = 3MB : 2
+6-One minute of online gaming = 0.33MB : 3
+7-One minute of streaming high resolution video = 5.88MB : 5
+8-One photo (uploaded or downloaded) = 3MB : 6
+ 
+Total data usage are: 257.33 MB 
+ 
+Do you want go to main page?
+If yes enter zero (0)
+If no enter one (1)
+0
+1. CALCULATE DATA USAGE 
+2. CALCULATE INTERNET SPEED 
+3. CHECK INTERNET COVERAGE FOR EACH STATE 
+4. PURCHASING INTERNET 
+ 
+ENTER NUMBER TO PROCEED TO NEXT PAGE:
+2
+ 
+ 
+*****This is to calculate internet speed in Mbps*****
+ 
+Enter data usage in Mega byte: 256.32
+Enter time in minute: 3
+ 
+This is your internet speed: 1.42 
+ 
+Do you want go to main page?
+If yes enter zero (0)
+If no enter one (1)
+0
+1. CALCULATE DATA USAGE 
+2. CALCULATE INTERNET SPEED 
+3. CHECK INTERNET COVERAGE FOR EACH STATE 
+4. PURCHASING INTERNET 
+ 
+ENTER NUMBER TO PROCEED TO NEXT PAGE:
+3
+ 
+ 
+**************************************************************************
+       List of internet coverage by descending order for each state
+**************************************************************************
+Johor           = Digi    | Umobile | Maxis   | Unifi   | Celcom  | Yes
+Kedah           = Umobile | Digi    | Maxis   | Celcom  | Unifi   | Yes
+Kelantan        = Maxis   | Digi    | Umobil  | Unifi   | Yes     | Celcom
+Kuala Lumpur    = Maxis   | Celcom  | Digi    | Umobile | Unifi   | Yes
+Melaka          = Digi    | Maxis   | Umobile | Celcom  | Unifi   | Yes
+Negeri Sembilan = Digi    | Maxis   | Umobile | Unifi   | Yes     | Celcom
+Pahang          = Digi    | Maxis   | Umobile | Yes     | Celcom  | Unifi
+Perak           = Digi    | Maxis   | Umobile | Unifi   | Celcom  | Yes
+Perlis          = Umobile | Digi    | Maxis   | Celcom  | Unifi   | 
+Pulau Pinang    = Digi    | Maxis   | Umobile | Celcom  | Unifi   | Yes
+Sabah           = Digi    | Umobile | Maxis   | Unifi   | Yes     | Celcom
+Sarawak         = Digi    | Maxis   | Umobile | Unifi   | Celcom  | 
+Selangor        = Maxis   | Digi    | Umobile | Celcom  | Unifi   | Yes
+Terangganu      = Maxis   | Digi    | Umobile | Unifi   | Celcom  | Yes
+ 
+ 
+Do you want go to main page?
+If yes enter zero (0)
+If no enter one (1)
+0
+1. CALCULATE DATA USAGE 
+2. CALCULATE INTERNET SPEED 
+3. CHECK INTERNET COVERAGE FOR EACH STATE 
+4. PURCHASING INTERNET 
+ 
+ENTER NUMBER TO PROCEED TO NEXT PAGE:
+4
+ 
+ 
+DIGI = 1  MAXIS = 2  UMOBILE = 3  UNIFI = 4  CELCOM = 5  YES = 6
+ 
+Each member will get 5% discount for every purchasing.
+Customer who purchase from outside Malaysia will be charge RM 10 for each purchasing.
+Monthly internet data plan price
+ 
+Enter number of your choice: 2
+2. UNLIMITED WITH 500 HIGH SPEED DATA = RM 15  UNLIMITED WITH 20 GB HIGH SPEED DATA = RM 128 
+ 
+Are you a member? yes (1) / no (0) : 1
+Are you in Malaysia? yes (1) / no (0) : 0
+Enter price of data plan you want to purchase: 15
+Total payment: RM 24.25
+ 
+ 
+Do you want go to main page?
+If yes enter zero (0)
+If no enter one (1)
+1
+ 
+ 
+*************** THANK YOU FOR USING THIS APPLICATION ****************
