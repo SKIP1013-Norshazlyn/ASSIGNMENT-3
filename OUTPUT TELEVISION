@@ -1,0 +1,246 @@
+Welcome to the Jack’s TV system
+Please enter any integer to proceed or -1 to show the store profit for this month: 1
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+3999
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+1
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+1
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  4918.77 
+Please enter the amount paid: RM 
+5000
+******
+Welcome to the Jack’s TV
+******
+Staff ID : 123
+The brand and of the television is : Samsung LED TV
+The price of the television is :RM  4718.82 
+The installation charge is :RM  199.95 
+-------------------------------------------------
+The total price must been paid :RM  4918.77 
+-------------------------------------------------
+The money paid by the customer: RM  5000.00 
+The balance for the customer is: RM  81.23 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: 2
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+3999
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+2
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+1
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  4758.81 
+Please enter the amount paid: RM 
+4800
+******
+Welcome to the Jack’s TV
+******
+Staff ID : 123
+The brand and of the television is : Sony LED TV
+The price of the television is :RM  4558.86 
+The installation charge is :RM  199.95 
+-------------------------------------------------
+The total price must been paid :RM  4758.81 
+-------------------------------------------------
+The money paid by the customer: RM  4800.00 
+The balance for the customer is: RM  41.19 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: 3
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+3999
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+3
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+1
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  4758.81 
+Please enter the amount paid: RM 
+4800
+******
+Welcome to the Jack’s TV
+******
+Staff ID : 123
+The brand and of the television is : Panasonic LED TV
+The price of the television is :RM  4558.86 
+The installation charge is :RM  199.95 
+-------------------------------------------------
+The total price must been paid :RM  4758.81 
+-------------------------------------------------
+The money paid by the customer: RM  4800.00 
+The balance for the customer is: RM  41.19 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: 4
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+3999
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+4
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+1
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  4838.79 
+Please enter the amount paid: RM 
+5000
+******
+Welcome to the Jack’s TV
+******
+Staff ID : 123
+The brand and of the television is : Philips LED TV
+The price of the television is :RM  4638.84 
+The installation charge is :RM  199.95 
+-------------------------------------------------
+The total price must been paid :RM  4838.79 
+-------------------------------------------------
+The money paid by the customer: RM  5000.00 
+The balance for the customer is: RM  161.21 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: 5
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+3999
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+5
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+1
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  4638.84 
+Please enter the amount paid: RM 
+4700
+******
+Welcome to the Jack’s TV
+******
+Staff ID : 123
+The brand and of the television is : LG LED TV
+The price of the television is :RM  4438.89 
+The installation charge is :RM  199.95 
+-------------------------------------------------
+The total price must been paid :RM  4638.84 
+-------------------------------------------------
+The money paid by the customer: RM  4700.00 
+The balance for the customer is: RM  61.16 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: 6
+Please insert your staff ID: 
+123
+Please enter the original price of the television: 
+3999
+Please enter the brand of the television: 
+Please enter 1 for Samsung
+Please enter 2 for Sony
+Please enter 3 for Panasonic
+Please enter 4 for Philips
+Please enter 5 for LG
+Please enter 6 for Toshiba
+6
+Please enter the type of the television: 
+Please enter 1 for LED TV
+Please enter 2 for Plasma TV
+Please enter 3 for Smart TV
+1
+Please enter 1 to accept the installation package
+Please enter 2 to reject the installation package
+1
+The total price must been paid : RM  4958.76 
+Please enter the amount paid: RM 
+5000
+******
+Welcome to the Jack’s TV
+******
+Staff ID : 123
+The brand and of the television is : Toshiba LED TV
+The price of the television is :RM  4758.81 
+The installation charge is :RM  199.95 
+-------------------------------------------------
+The total price must been paid :RM  4958.76 
+-------------------------------------------------
+The money paid by the customer: RM  5000.00 
+The balance for the customer is: RM  41.24 
+Thank you for choosing Jack’s TV
+
+Please enter any integer to proceed or -1 to show the store profit for this month: -1
+The Jack's TV store profit for this month is: RM  3679.08 
+The total television sold in a month is : 6
+Please enter the expenses of the store for this month
+Please enter the first staff salary for this month
+1000
+Please enter the second staff salary for this month
+1200
+Please enter the store rent for this month
+500
+Please enter the electricity bill for this month
+100
+Please enter the water bill for this month
+100
+The Jack's TV store profit for this month is: RM  779.08 
+
+
