@@ -1,0 +1,231 @@
+OUTPUT
+
+OPTION A
+------------------------------------------------------------------------------
+                          Hi welcome to Talasco                               
+                       'Protection is our necessity'                          
+                                                                              
+ Please select between this option :                                          
+                   A) Insurance cover                                         
+                   B) Insurance claim(Staff)                                  
+Your Answer : A
+---------------------------------Details--------------------------------------
+ Our insurance offer a protection for :                                       
+                                                                              
+  a) Stolen Phone by thief - If your phone are being stolen by thief,you can  
+     get a new phone with same model and we also will file a report to the    
+     police.                                                                  
+  b) Free Repair Service   - If your phone has been damage like a cracked     
+     phone screen or any kind of problem. You will get a comepensation for a  
+     free repair service but limit with certain amount RM.                    
+  c) Overseas Travel       - If you are study abroad or having a vacation on  
+     our company will pay your data roaming price                             
+---------------------------------Price----------------------------------------
+ This is our price : # For Tier A phone - RM 25/ month                        
+    $(if want)       # For Tier B phone - RM 45/ month                        
+    #(a must)        # Monthly payment -  RM 30/ month                        
+                      Additional Insurance                                    
+                     # Instant Cover    - +RM 8                               
+                     # RM 3200 for claim (normal claim only RM 800) - + RM 30 
+                     # Human mistake cover - + RM 100                         
+--------------------------------Condition-------------------------------------
+ Only eligible if eligibility percentage under 30 %                           
+ This insurance must pay every month for 12 months                            
+ If there is any unpaid payment for once. We will cancel your service         
+--------------------------------Insurance-------------------------------------
+ Please insert your first name: Adriana
+ Please insert your last name: Aisha
+ Please enter your ic number: 020306140419
+Please enter your monthly income: RM20000
+ Please enter your monthly commitment: RM200
+------------------------------Type Of Insurance-------------------------------
+ From the list please find your tier phone model                               
+------------------------------Tier A------------------------------------------
+[Apple iPhone 5C 16GB, Apple iPhone 6, Apple iPhone 6S, Apple iPhone 7]
+[Apple iPhone 8, Apple iPhone SE 2020, Google Pixel 3A XL, Google Pixel 3A]
+[HTC ONE M9, Samsung Galaxy A10e, Samsung Galaxy J3,  Samsung Galaxy J7]
+[Samsung Galaxy S3, Samsung J727, Samsung Galaxy A6 SHINE, Samsung Galaxy A11]
+[Samsung Galaxy A20, Samsung Galaxy A21, Samsung Galaxy A32 5G, Samsung Galaxy A50, Samsung Galaxy A51 5G]
+------------------------------------------------------------------------------
+
+------------------------------Tier B------------------------------------------
+[Apple iPhone 11, Apple iPhone 11 PRO, Apple iPhone 11 Pro Max,  Apple iPhone 6S Plus, Apple iPhone XR]
+[Apple iPhone 6 Plus,  Apple iPhone 7 Plus, Apple iPhone 8 plus,  Apple iPhone X, Apple iPhone XS]
+[Apple iPhone 12 PRO,  Apple iPhone 12 PRO MAX, Apple iPhone 12,   Apple iPhone 12 MINI]
+[Google Pixel 3,  Google Pixel 3 XL, Google Pixel 4, Google Pixel 4 XL , Google Pixel 5]
+[Samsung Galaxy Fold,  Samsung Galaxy Note 10, Samsung Galaxy Note 10 Plus, Samsung Galaxy Note 8, Samsung Galaxy Note 9]
+[Samsung Galaxy S10, Samsung Galaxy S10 Plus,  Samsung Galaxy S10e,  Samsung Galaxy S20 5G, Samsung Galaxy S20 FE, Samsung Galaxy S20 Plus 5G]
+[ Samsung Galaxy S20 Ultra 5G,  Samsung Galaxy S20 ULTRA 5G,  Samsung Galaxy S21 5G, Samsung Galaxy S21 ULTRA 5G, Samsung Galaxy S21 PLUS 5G]
+[ Samsung Galaxy S6,  Samsung Galaxy S7,  Samsung Galaxy S7 ACTIVE,  Samsung Galaxy S7 Edge, Samsung Galaxy S8, Samsung Galaxy S8 Active]
+[Samsung Galaxy S8 Plus,  Samsung Galaxy S9, Samsung Galaxy S9 Plus, Samsung Galaxy S10 5G, Samsung Galaxy Z FLIP 5G, Samsung Galaxy Z FLIP]
+------------------------------------------------------------------------------
+ Is your phone tier A ( 1 if yes , 0 if no) : 1
+ Is your phone tier B ( 1 if yes , 0 if no) : 1
+ Want to add more device to use this insurance? Please enter the quantity  
+For phone tier A  : 0
+ For phone tier B  : 0
+---------------------------Additional Features--------------------------------
+ Instant cover? (Enter 1 if yes , 0 if no) : 1
+ RM 3200 claim for mechanical and software problems(Enter 1 if yes , 0 if no):  0
+ Human Mistake Cover? (This only cover for accidently misplace your device and lose it (Enter 1 if yes , 0 if no): 1
+---------------------Please wait proceeding your receipt----------------------
+------------------------------------------------------------------------------
+                                 Receipt                                      
+------------------------------------------------------------------------------
+                                                                              
+                                                                              
+     NAME: Adriana Aisha
+    IC NO: 020306140419
+    Payment per month: RM208.0
+                                                                              
+                                                                              
+                                                                              
+------------------------------------------------------------------------------
+                               Thank you >_<                                  
+------------------------------------------------------------------------------
+Thank you again and see you later 
+
+OPTION B (CLAIMING A)
+------------------------------------------------------------------------------
+                          Hi welcome to Talasco                               
+                       'Protection is our necessity'                          
+                                                                              
+ Please select between this option :                                          
+                   A) Insurance cover                                         
+                   B) Insurance claim(Staff)                                  
+Your Answer : b
+Please enter Staff ID
+admin
+Please enter the password
+123
+You have logged in!                                                           
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+How many months does the customer pay the insurance : 
+12
+What kind of insurance you want to claim :                                    
+                   A. Thief Cover                                             
+                   B. Free Repair Service                                     
+                   C. Data Travel Cover                                       
+A
+Is your phone get stolen by thief or you missplace it?
+  A - Stolen by thief (with police proof)             
+  B - Misplace it                                     
+Your Answer : a
+What is the price of your phone : RM 2000
+Do you have instant cover ?: 
+Y or N 
+y
+------------------------------------------------------------------------------
+                                 Receipt                                      
+------------------------------------------------------------------------------
+ ID STAFF : admin
+ Your total claim RM 2000.0
+              You will get your phone in 3 days                               
+------------------------------------------------------------------------------
+                               Thank you >_<                                  
+------------------------------------------------------------------------------
+Thank you again and see you later 
+OPTION B (CLAIMING B)
+------------------------------------------------------------------------------
+                          Hi welcome to Talasco                               
+                       'Protection is our necessity'                          
+                                                                              
+ Please select between this option :                                          
+                   A) Insurance cover                                         
+                   B) Insurance claim(Staff)                                  
+Your Answer : b
+Please enter Staff ID
+admin
+Please enter the password
+123
+You have logged in!                                                           
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+How many months does the customer pay the insurance : 
+12
+What kind of insurance you want to claim :                                    
+                   A. Thief Cover                                             
+                   B. Free Repair Service                                     
+                   C. Data Travel Cover                                       
+b
+Do you have Extra Claim Cover ?:
+Y or N 
+y
+How many parts of the phone that need repair? :
+2
+Enter the the repair price for Part 1: RM 120
+Enter the the repair price for Part 2: RM 100
+------------------------------------------------------------------------------
+                                 Receipt                                      
+------------------------------------------------------------------------------
+ ID STAFF : admin
+ Your total claim RM 220.0
+              You will get your compensate in 3 days                          
+------------------------------------------------------------------------------
+                               Thank you >_<                                  
+------------------------------------------------------------------------------
+Thank you again and see you later 
+
+OPTION B (CLAIMING C)
+------------------------------------------------------------------------------
+                          Hi welcome to Talasco                               
+                       'Protection is our necessity'                          
+                                                                              
+ Please select between this option :                                          
+                   A) Insurance cover                                         
+                   B) Insurance claim(Staff)                                  
+Your Answer : b
+Please enter Staff ID
+admin
+Please enter the password
+123
+You have logged in!                                                           
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+How many months does the customer pay the insurance : 
+12
+What kind of insurance you want to claim :                                    
+                   A. Thief Cover                                             
+                   B. Free Repair Service                                     
+                   C. Data Travel Cover                                       
+c
+How much the price data roaming for your telco ?: RM 200
+How many days you will be getting away ? 
+20
+------------------------------------------------------------------------------
+                                 Receipt                                      
+------------------------------------------------------------------------------
+ ID STAFF : admin
+ Your total claim RM 4000.0
+------------------------------------------------------------------------------
+                               Thank you >_<                                  
+------------------------------------------------------------------------------
+Thank you again and see you later 
+
+OPTION T (CLAIM2)
+------------------------------------------------------------------------------
+                          Hi welcome to Talasco                               
+                       'Protection is our necessity'                          
+                                                                              
+ Please select between this option :                                          
+                   A) Insurance cover                                         
+                   B) Insurance claim(Staff)                                  
+Your Answer : T
+Password?
+Lasak
+Array:[admin, john, alina]
+Array:[123, 456, 789]
+Please enter the new ID : 
+adriana
+Array after adding element: [admin, john, alina, adriana]
+Please enter the password for the new ID : 
+999
+Array after adding element: [123, 456, 789, 999]
+Please enter Staff ID
+adriana
+Please enter the password
+999
+You have logged in!                                                           
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
